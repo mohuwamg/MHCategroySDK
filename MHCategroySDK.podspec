@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
                     简化 iOS 开发中的重复代码，提升开发效率。
                    DESC
                      
-  s.homepage     = "https://github.com/wy625571185/WYCategroySDK"
+  s.homepage     = "https://github.com/wy625571185/MHCategroySDK"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "wy625571185" => "625571185@qq.com" }
   s.source       = { :git => 'https://github.com/wy625571185/MHCategroySDK.git', :tag => "#{s.version}" }
