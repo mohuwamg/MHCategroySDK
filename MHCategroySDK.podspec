@@ -21,8 +21,6 @@ Pod::Spec.new do |s|
   #s.source_files = "MHCategroySDK.xcframework/**/Headers/*.h"
   #s.public_header_files = "MHCategroySDK.xcframework/**/Headers/*.h"
   
-  s.vendored_frameworks = "MHCategroySDK.xcframework"
-  
   s.frameworks   = "UIKit", "Foundation"
   
   #s.swift_versions = ['5.0']
