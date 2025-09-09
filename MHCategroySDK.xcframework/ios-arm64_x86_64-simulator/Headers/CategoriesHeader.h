@@ -38,7 +38,6 @@
 #import "UIDevice+Model.h"
 #import "NSObject+Empty.h"
 #import "NSString+Format.h"
-#import "NSError+Chinese.h"
 #import "NSString+QRCode.h"
 #import "NSString+Verify.h"
 #import "NSObject+Runtime.h"
