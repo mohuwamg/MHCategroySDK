@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "12.0"
   s.static_framework = true
   
-  s.vendored_frameworks = "MHCategroySDK.framework"
+  s.vendored_frameworks = "MHCategroySDK.xcframework"
   #s.source_files = "MHCategroySDK.xcframework/**/Headers/*.h"
   #s.public_header_files = "MHCategroySDK.xcframework/**/Headers/*.h"
   
